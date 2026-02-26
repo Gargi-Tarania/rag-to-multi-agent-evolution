@@ -1,4 +1,4 @@
-# rag-to-multi-agent-evolution
+# RAG to Multi-agent Evolution
 Exploring the evolution of LLM system design: from simple retrieval chains to adaptive, orchestrated multi-agent workflows using LangChain, CrewAI and LangGraph.
 This repository demonstrates the evolution of LLM application design, from linear retrieval pipelines to adaptive, orchestrated multi-agent systems.
 The goal is to understand how AI architectures mature as complexity, reliability and production requirements increase.
